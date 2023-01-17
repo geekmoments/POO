@@ -1,2 +1,2 @@
 # Programación orientada a objetos
-: La programación orientada a objetos resuelve:
+> La programación orientada a objetos resuelve:
